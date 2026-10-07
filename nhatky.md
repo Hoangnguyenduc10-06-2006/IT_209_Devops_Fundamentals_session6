@@ -35,3 +35,5 @@ drwxr-xr-x 4 duc  www-data 4096 Oct  7 07:14 .
 drwxr-xr-x 5 root root     4096 Oct  7 07:14 ..
 drwxrwx--- 2 duc  www-data 4096 Oct  7 07:14 logs
 drwxr-x--- 2 duc  www-data 4096 Oct  7 07:14 public
+
+<img width="728" height="781" alt="image" src="https://github.com/user-attachments/assets/64a67556-ba49-4a57-893a-be95e6bc41ba" />
